@@ -16,6 +16,9 @@ p.intro {
 
 img.intro {
   border-style: double;
+  max-height: 50%;
+  max-width: 50%;
+  float: right;
 }
 
 #line2 {
@@ -24,4 +27,8 @@ img.intro {
 
 .special {
     font-family: Arial;
+}
+
+.sidebar {
+    float: center;
 }
