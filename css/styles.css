@@ -2,6 +2,10 @@
   color: red;
 }
 
+.appreciation {
+  font-size: 25px;
+}
+
 h2.intro {
   color: green;
 }
@@ -16,4 +20,8 @@ img.intro {
 
 #line2 {
     color: yellow;
+}
+
+.special {
+    font-family: Arial;
 }
