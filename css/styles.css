@@ -32,3 +32,8 @@ img.intro {
 .sidebar {
     float: center;
 }
+
+.column {
+  width: 300px;
+  float:left;
+}
