@@ -1,3 +1,19 @@
-.important {
+.intro {
   color: red;
+}
+
+h2.intro {
+  color: green;
+}
+
+p.intro {
+  color: blue;
+}
+
+img.intro {
+  border-style: double;
+}
+
+#line2 {
+    color: yellow;
 }
